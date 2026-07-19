@@ -1,2 +1,4 @@
 nome: Leonardo
-CPF 000.000.000-01
+cpf: 000.000.000-01
+idade: 29
+altura: 1.62
